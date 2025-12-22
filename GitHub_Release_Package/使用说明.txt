@@ -1,7 +1,0 @@
-[如何使用此文件夹]
-
-1. 请将您编译好的软件压缩包 (例如 CANlearn_v1.5.0.zip) 或安装程序 (CANlearn_Setup.exe) 放入此文件夹。
-2. 打开 GitHub 仓库 -> Releases -> Draft a new release。
-3. 将 release_notes.md 中的内容复制到 "Description" 框中。
-4. 将本文件夹中的 .zip 或 .exe 文件拖入 "Attach binaries" 区域。
-5. 点击 Publish release。
