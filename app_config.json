@@ -1,13 +1,9 @@
 {
-    "AppName": "CANlearn Pro 11",
-    "VersionOverride": "1.0.6",
-    "GithubOwner": "CKCP-Boss-JJ",
-    "GithubRepo": "tool",
-    "GiteeOwner": "oschina",
-    "GiteeRepo": "git-osc",
-    "Top": 100,
-    "Left": 100,
-    "Width": 1200,
-    "Height": 800,
-    "IsMaximized": false
+  "Top": 216,
+  "Left": 509,
+  "Width": 1200,
+  "Height": 800,
+  "IsMaximized": false,
+  "Language": "zh-CN",
+  "IsSidebarExpanded": true
 }
